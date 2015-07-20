@@ -1,0 +1,55 @@
+.nav {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.nav .container {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.jumbotron {
+  background-image: url('http://omnology.files.wordpress.com/2013/05/screen-shot-2013-05-26-at-11-45-19-am.png');
+}
+
+.jumbotron .container {
+  padding-bottom: 600px;
+  color: white;
+  font-family: 'Cuprum', sans-serif;
+}
+
+.content {
+  font-family: 'Cuprum', sans-serif;
+}
+
+.page-header {
+  text-transform: uppercase;
+}
+
+.quote {
+  color: white;
+  font-family: 'Cuprum', sans-serif;
+}
+
+.container .section h3 {
+  font-size: 30px;
+}
+
+.container .section p {
+  font-size: 20px;
+}
+
+.container .section ul {
+  font-size: 15px;
+  font-family: Arial;
+}
+
+.next {
+  color: black;
+  font-family: 'Cuprum', sans-serif;
+  margin-bottom: 40px;
+}
